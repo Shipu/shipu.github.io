@@ -512,6 +512,8 @@ li{
 
     body{
         -webkit-print-color-adjust:exact;
+        transform: scale(0);
+        transform-origin: center top;
     }
 
     #disclaimer p{
