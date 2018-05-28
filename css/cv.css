@@ -512,8 +512,7 @@ li{
 
     body{
         -webkit-print-color-adjust:exact;
-        transform: scale(0);
-        transform-origin: center top;
+        transform: scale(1);
     }
 
     #disclaimer p{
