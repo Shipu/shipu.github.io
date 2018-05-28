@@ -136,7 +136,7 @@
 
             <section class="blocks">
                 <div class="date">
-                    <span>Jan, 2016</span><span>Jul, 2016</span>
+                    <span>Jul, 2016</span><span>Jan, 2016</span>
                 </div>
                 <div class="decorator">
                 </div>

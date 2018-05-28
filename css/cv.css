@@ -57,7 +57,7 @@ h5 {
 }
 
 a{
-    text-decoration: none;
+    text-decoration: underline dotted !important;
     color: #444;
 }
 
