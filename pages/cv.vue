@@ -193,11 +193,12 @@
                     </header>
                     <div>
                         <ul>
-                            <li>PHP, C, C++,</li>
-                            <li>Laravel, CodeIgniter, VueJS</li>
-                            <li>HTML5, CSS3, JavaScript, XML, JSON, AJAX, Git, REST API</li>
-                            <li>MYSQL, PostgreSQL, SQLite, MongoDB, Redis, Apache, Nginx</li>
-                            <li>Configuring VPS with LAMP, LEMP</li>
+                            <li>Experties: Problem Solving and Back End Development with PHP</li>
+                            <li>Programing Languages: PHP, C, C++, C#, Java, Javascript</li>
+                            <li>Frameworks: Laravel, CodeIgniter, CakePHP, VueJS, Jquery</li>
+                            <li>Databae: MYSQL, PostgreSQL, SQLite, MongoDB</li>
+                            <li>Tools: Git, PhpStrom, Sublime Text, NPM, WebPack, Yarn
+                            <li>Others: HTML5, CSS3, Apache, Nginx, Configuring VPS with LAMP or LEMP</li>
                         </ul>
                     </div>
                 </div>
