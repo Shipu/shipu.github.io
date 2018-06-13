@@ -36,7 +36,7 @@
             </section>
             <section class="blocks">
                 <div class="date">
-                    <span>Oct, 2018</span><span>Nov, 2018</span>
+                    <span>Oct, 2017</span><span>Nov, 2017</span>
                 </div>
                 <div class="decorator">
                 </div>
