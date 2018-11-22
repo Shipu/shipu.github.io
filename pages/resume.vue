@@ -23,13 +23,6 @@
                     </header>
                     <div>
                         <p>A Rahimafrooz affiliated company Deligram is an omni-channel eCommerce platform that is merging the gap between online & offline shopping. Working on the backend team to develop new feature, analysis requirement and support the legacy codebase.</p>
-                        <ul>
-                            <li>Analyze detailed product requirements (stories) and planning for the solution meet all specified requirements & condition of satisfactions.</li>
-                            <li>Implementing business logic.</li>
-                            <li>Handle event based all type of automation.</li>
-                            <li>Develop restful api for web frontend and mobile app.</li>
-                            <li>Develop single page application for administration with Laravel and Vuejs.</li>   
-                        </ul>
                     </div>
                 </div>
             </section>
@@ -49,62 +42,6 @@
                         <p>
                             Requirement analysis, product design, application architecture, coding, testing, code review, manage version control system, maintain vps and shared server. Manage a team of 3 developers.
                         </p>
-                        <ul>
-                            <li class="project-title">
-                              <a href="https://codecanyon.net/item/inilabs-school-management-system-express/11630340" target="_blank">
-                                iNiLABS School Management System
-                                <h5><i><span class="location">Envato Marketplace</span></i></h5>
-                              </a>
-                                <ul>
-                                    <li>A Complete School Management System</li>
-                                    <li>Used Codeigniter as application framework, MYSQL as database server.</li>
-                                </ul>
-                            </li>
-                            <li class="project-title">
-                              <a href="https://codecanyon.net/item/istart-laravel-multi-adminfrontend-theme-and-startup-tools/19072400" target="_blank">
-                                Laravel Multi Admin+Frontend Theme and Startup Tools
-                                <h5><i><span class="location">Envato Marketplace</span></i></h5>
-                              </a>
-                                <ul>
-                                    <li>It’s simple invoice manager.</li>
-                                    <li>Used Laravel as application framework, MYSQL as database server.</li>
-                                </ul>
-                            </li>
-                            <li class="project-title">
-                              <a href="https://codecanyon.net/item/ibill-simplest-and-best-billing-invoice-manager/19401793" target="_blank">
-                                Simplest and Best Billing & Invoice Manager
-                                <h5><i><span class="location">Envato Marketplace</span></i></h5>
-                              </a>
-                                <ul>
-                                    <li>Multi Purpose Support System is a ticketing system by which you can manage your company customer support very easily & effectively. </li>
-                                    <li>Used Laravel as application framework, MYSQL as database server.</li>
-                                </ul>
-                            </li>
-                            <li class="project-title">
-                              <a href="https://codecanyon.net/item/ihostel-inilabs-multi-branch-hostel-management-system-pos/18186482" target="_blank">
-                                Multi Branch Hostel Management System
-                                <h5><i><span class="location">Envato Marketplace</span></i></h5>
-                              </a>
-                                <ul>
-                                    <li>Multibranch Hostel Management System.</li>
-                                    <li>Used Codeigniter as application framework, MYSQL as database server.</li>
-                                </ul>
-                            </li>
-                            <li class="project-title">Patient Prescription Management
-                                <ul>
-                                    <li>Doctors Prescriptions</li>
-                                    <li>Used Lumen as an application framework, MYSQL as database server, Restful Api.</li>
-                                </ul>
-                            </li>
-                            <li class="project-title">Cards Bill
-                                <ul>
-                                    <li>Money transfer of Bank to Bank for pay credit card bills.</li>
-                                    <li>Used Laravel as application framework, MYSQL as database server.</li>
-                                </ul>
-                            </li>
-                            <li><a href="https://codecanyon.net/user/inilabs/portfolio" target="_blank">More details please visit to Envato Account</a></li>
-                        </ul>
-                        <span><br></span>
                     </div>
                 </div>
             </section>
@@ -123,35 +60,10 @@
                     </header>
                     <div>
                         <p>Works on web technologies both in frontend and backend web development. During this job, Learning CakePHP and drupal. Maintain and support all bangladesh government portal. Solving bug issues, some customizations and developing new project.</p>
-                        <ul>
-                            <li class="project-title">Bangladesh National Portal
-                                <ul>
-                                  <li>Maintaining, Customizing and support all bangladesh government portal and adding new feature through A2i</li>
-                                    <li>Used Drupal as frontend application and Phalcon as Backend application framework, MariaDB as database.</li>
-                                </ul>
-                            </li>
-                            <li class="project-title"><a href="http://www.forms.gov.bd">Bangladesh Forms Portal</a>
-                            <ul>
-                              <li>Making web forms and functionality from Hard copy form.</li>
-                              <li>Used CakePHP as application framework, MYSQL as database.</li>
-                            </ul>
-                              
-                            </li>
-                            <li class="project-title">Doctor Appointment Booking
-                                <ul>
-                                    <li>Doctor and Patient communication application for Japani clients</li>
-                                    <li>Used CakePHP as application framework, MYSQL as database.</li>
-                                </ul>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </section>
         </section>
-
-        <div class="print">
-             <br><br><br><br><br><br><br><br><br>
-        </div>
 
         <section class="main-block concise">
             <h2>
@@ -193,10 +105,7 @@
                         <ul>
                             <li>Got 500+ accepted solutions at Various type of Online Judge</li>
                             <li>Participated of ACM ICPC Programming Contest in 2012, 2013 and 2014.</li>
-                            <li>Participated in countless other national and online programming contests.</li>
                             <li>Winner at Intra University Programming Contest 2012 held at BUBT</li>
-                            <li>4th Times Judge Panel Member and Technical Administrator in Intra University Programing contest at BUBT</li>
-                            <li>Firefox OS Mobile Device by Alcatel a gift from Mozilla Firefox for Mozilla Firefox App</li>
                         </ul>
                     </div>
                 </div>
@@ -223,21 +132,6 @@
                 </div>
             </section>
             <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/shipu/hackerrank-api" target="_blank">HackerRank API</a></h3>
-            <span class="place">HackerRank Code Checker API for Laravel.</span>
-                        <span class="fork">5</span>
-                        <span class="star">11</span>
-                        <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-            <section class="blocks">
                 <div class="date">
                 </div>
                 <div class="decorator">
@@ -259,70 +153,10 @@
                 </div>
                 <div class="details">
                     <header>
-                        <h3><a href="https://github.com/Shipu/php-aamarpay-payment" target="_blank">AamarPay Payment</a></h3>
-                        <span class="place">Bangladesh payment gateway by aamarpay</span>
-                        <span class="fork">10</span>
-                        <span class="star">8</span>
-                        <span class="creator"></span>
-                    </header>
-                </div>
-            </section>
-            <section class="blocks">
-                <div class="date">
-                </div>
-                <div class="decorator">
-                </div>
-                <div class="details">
-                    <header>
-                        <h3><a href="https://github.com/Shipu/muthofun-sms-gateway" target="_blank">MUTHOFUN SMS Gateway</a></h3>
-                        <span class="place">MUTHOFUN is sms gateway in Bangladesh</span>
-                        <span class="fork">9</span>
-                        <span class="star">8</span>
-                        <span class="creator"></span>
-                    </header>
-                </div>
-            </section>
-            <section class="blocks">
-                <div class="date">
-                </div>
-                <div class="decorator">
-                </div>
-                <div class="details">
-                    <header>
-                        <h3><a href="https://github.com/Shipu/laratie" target="_blank">Laratie</a></h3>
-                        <span class="place">Laravel Package Development Boilerplate.</span>
-                        <span class="fork">8</span>
-                        <span class="star">37</span>
-                        <span class="creator"></span>
-                    </header>
-                </div>
-            </section>
-            <section class="blocks">
-                <div class="date">
-                </div>
-                <div class="decorator">
-                </div>
-                <div class="details">
-                    <header>
                         <h3><a href="https://github.com/nahid/talk" target="_blank">Laravel Talk</a></h3>
                         <span class="place">User conversation (inbox) system with realtime messaging</span>
                         <span class="fork">238</span>
                         <span class="star">1079</span>
-                        <span class="contributor"></span>
-                    </header>
-                </div>
-            </section>
-            <section class="blocks">
-                <div class="date">
-                </div>
-                <div class="decorator">
-                </div>
-                <div class="details">
-                    <header>
-                        <h3><a href="https://github.com/ConsoleTVs/Charts" target="_blank">Charts</a></h3>
-                        <span class="place">Multi-library chart package to create interactive charts</span>
-                        <span class="fork">241</span>
-                        <span class="star">1580</span>
                         <span class="contributor"></span>
                     </header>
                 </div>
@@ -349,7 +183,7 @@
                 <div class="details">
                     <header>
                         <h3>M.Sc. in Computer Science and Engineering</h3>
-                        <span class="place"><a href="http://www.juniv.edu/">Jahangirnagar University</a><br><br><br></span>
+                        <span class="place"><a href="http://www.juniv.edu/">Jahangirnagar University</a><br><br></span>
                         <span class="location">Savar, Bangladesh</span>
                     </header>
                     <div>
@@ -373,14 +207,6 @@
                     </header>
                     <div>
                         <ul>
-                          <li>
-                                <a href="https://marketplace.firefox.com/app/class-poll">
-                                Mozilla Firefox App Class Poll
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.sersc.org/journals/IJMUE/vol12_no1_2017/2.pdf">Tree Based Localization Model for Line Following Robots with User Command via Web Application</a>
-                            </li>
                             <li>Joint-Secretary at BUBT IT CLUB</li>
                             <li>Club Lead at BUBT Firefox Club</li>
                             <li>Team Lead at BUBT Psycho for National and ACM ICPC Programming Contest</li>
@@ -438,13 +264,6 @@
                 </li>
             </ul>
         </div>
-        <div class="side-block" id="personal-info">
-            <h1>Language</h1>
-            <ul>
-                <li>English</li>
-                <li>Bangla</li>
-            </ul>
-        </div>
         <div class="side-block" id="contact">
             <h1>Contact Info</h1>
             <ul>
@@ -467,50 +286,6 @@
             </ul>
         </div>
 
-        <div class="print">
-            <br>
-        </div>
-
-        <div class="side-block" id="personal-info">
-            <h1>Extra Curricular</h1>
-            <ul>
-                <li>Playing Guitar</li>
-                <li>Blood Donor</li>
-            </ul>
-        </div>
-
-        <div class="print">
-            <br><br><br><br>
-        </div>
-
-
-        <div class="side-block" id="personal-info">
-            <h1>WorkShop</h1>
-            <ul>
-                <li>
-                    Mozilla App Day at BRACU
-                    <h5>Creating Firefox App </h5>
-                </li>
-                <br>
-                <li>BAPS - BUBT National Programming Camp 2013
-                    <h5>Learning some algorithm and contest technique</h5>
-                </li>
-            </ul>
-        </div>
-
-        <div class="side-block" id="personal-info">
-            <h1>Interests</h1>
-            <ul>
-                <li>Coffee</li>
-                <li>Gadgets</li>
-                <li>Reading blogs</li>
-                <li>Travelling</li>
-                <li>Watching movies</li>
-                <li>Listening to music and podcasts</li>
-                <li>Open source community</li>
-                <li>Research</li>
-            </ul>
-        </div>
         <div class="side-block" id="links">
             <h1>Links</h1>
             <ul>
@@ -518,15 +293,11 @@
                 <li><i class="fa fa-github"></i> &nbsp;<a href="https://github.com/shipu">shipu</a></li>
                 <li><i class="fa fa-stack-overflow"></i> &nbsp;<a href="https://stackoverflow.com/users/2870187/sh%C3%ACpu-ahamed">shipu-ahamed</a></li>
                 <li><i class="fa fa-linkedin"></i> &nbsp;<a href="https://www.linkedin.com/in/toshipu">linkedin.com/in/toshipu</a></li>
-                <li><i class="fa fa-link"></i> &nbsp;<a href="https://speakerdeck.com/shipu">speakerdeck.com/shipu</a></li>
-                <li><i class="fa fa-slideshare"></i> &nbsp;<a href="http://www.slideshare.net/DeesheharaShipu">slideshare.net/shipu</a></li>
-                <li><i class="fa fa-firefox"></i> &nbsp;<a href="https://mozillians.org/en-US/u/shipu/">mozillians.org/shipu</a></li>
-                <li><i class="fa fa-link"></i> &nbsp;<a href="http://uhunt.felix-halim.net/id/168573">uva.onlinejudge.org/shipu</a></li>
             </ul>
         </div>
         <div class="side-block" id="disclaimer">
-            <a href="/pdf/shipu.pdf" download class="btn">Download</a>
-            <p>This CV is available online at <br> &mdash; <a href="https://shipuahamed/cv/">https://shipu.github.io/cv</a></p>
+            <a href="/pdf/shipu_resume.pdf" download class="btn">Download</a>
+            <p>This CV is available online at <br> &mdash; <a href="https://shipuahamed/resume/">https://shipu.github.io/resume</a></p>
         </div>
     </aside>
   </div>

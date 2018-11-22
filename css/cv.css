@@ -68,7 +68,7 @@ li{
 #main{
   float: left;
   width: var(--main-width);
-  padding: 0.25in 0.25in 0 0.25in;
+  padding: 0.25in 0.20in 0 0.20in;
   font-size: 7pt;
 }
 
@@ -76,7 +76,7 @@ li{
   float: right;
   position: relative; /* for disclaimer */
   width: var(--sidebar-width);
-  min-height: 2252px;
+  min-height: 1126px;
   padding: 0.6in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
   font-size: 8.5pt;
