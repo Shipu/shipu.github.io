@@ -19,4 +19,6 @@ $ npm start
 $ npm run generate
 ```
 
+https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372
+
 shipuahamed01@gmail.com
