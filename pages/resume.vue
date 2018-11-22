@@ -297,7 +297,7 @@
         </div>
         <div class="side-block" id="disclaimer">
             <a href="/pdf/shipu_resume.pdf" download class="btn">Download</a>
-            <p>This CV is available online at <br> &mdash; <a href="https://shipuahamed/resume/">https://shipu.github.io/resume</a></p>
+            <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io/resume">https://shipu.github.io/resume</a></p>
         </div>
     </aside>
   </div>

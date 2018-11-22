@@ -526,7 +526,7 @@
         </div>
         <div class="side-block" id="disclaimer">
             <a href="/pdf/shipu.pdf" download class="btn">Download</a>
-            <p>This CV is available online at <br> &mdash; <a href="https://shipuahamed/cv/">https://shipu.github.io/cv</a></p>
+            <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io/cv">https://shipu.github.io/cv</a></p>
         </div>
     </aside>
   </div>
