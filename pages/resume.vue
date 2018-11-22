@@ -238,7 +238,7 @@
 
     </section>
 
-    <aside id="sidebar">
+    <aside id="sidebar" style="min-height: 1126px;">
         <div class="side-block">
             <img src="/avatar.jpg" alt="avatar" class="avatar">
         </div>
