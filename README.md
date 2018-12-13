@@ -17,6 +17,9 @@ $ npm start
 
 # generate static project
 $ npm run generate
+
+# deploy in github
+$ npm run deploy
 ```
 
 https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372
