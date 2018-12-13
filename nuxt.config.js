@@ -16,7 +16,6 @@ module.exports = {
   css: [
     '~/css/normalize.css',
     '~/css/Font-Awesome/css/font-awesome.css',
-    '~/css/cv.css',
   ],
   //router: { base: '/shipu.github.io/' },
   router: { base: '/' },

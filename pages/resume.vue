@@ -319,3 +319,7 @@ export default {
   }
 };
 </script>
+
+<style>
+    @import '../css/cv.css';
+</style>

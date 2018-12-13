@@ -66,7 +66,7 @@
                                 <h5><i><span class="location">Envato Marketplace</span></i></h5>
                               </a>
                                 <ul>
-                                    <li>It’s simple invoice manager.</li>
+                                    <li>Laravel administration and upto 5 minutes crud startup up tools. <br>Enable multiple theme for frontend and backend.</li>
                                     <li>Used Laravel as application framework, MYSQL as database server.</li>
                                 </ul>
                             </li>
@@ -548,3 +548,7 @@ export default {
   }
 };
 </script>
+
+<style>
+    @import '../css/cv.css';
+</style>
