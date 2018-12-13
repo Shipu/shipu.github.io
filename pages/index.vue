@@ -76,12 +76,11 @@ html {
   background-color: #35495e;
 }
 .container {
-  border: 1px solid red;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 100vh
+  height: 100vh;
 }
 
 .title {
