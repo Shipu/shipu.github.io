@@ -176,7 +176,7 @@
             </h2>
             <section class="blocks">
                 <div class="date">
-                    <span>Present</span><span>Jan, 2018</span>
+                    <span>Jan, 2019</span><span>Jan, 2018</span>
                 </div>
                 <div class="decorator">
                 </div>
