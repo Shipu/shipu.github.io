@@ -28,7 +28,8 @@
                             <li>Implementing business logic.</li>
                             <li>Handle event based all type of automation.</li>
                             <li>Develop restful api for web frontend and mobile app.</li>
-                            <li>Develop single page application for administration with Laravel and Vuejs.</li>   
+                            <li>Develop single page application for administration with Laravel and Vuejs.</li>  
+                            <li>Helping junior developers</li> 
                         </ul>
                     </div>
                 </div>
@@ -216,8 +217,8 @@
                     <header>
                         <h3><a href="https://github.com/shipu/themevel" target="_blank">Themevel</a></h3>
                         <span class="place">Themevel is a Laravel 5 theme and asset management package</span>
-                        <span class="fork">38</span>
-                        <span class="star">178</span>
+                        <span class="fork">39</span>
+                        <span class="star">187</span>
                         <span class="creator"></span>
                     </header>
                 </div>
@@ -246,8 +247,8 @@
                     <header>
                         <h3><a href="https://github.com/Shipu/php-sslwireless-payment" target="_blank">SSLwireless Payment</a></h3>
                         <span class="place">Bangladesh payment gateway by sslwireless</span>
-                        <span class="fork">9</span>
-                        <span class="star">25</span>
+                        <span class="fork">10</span>
+                        <span class="star">26</span>
                         <span class="creator"></span>
                     </header>
                 </div>
@@ -276,8 +277,8 @@
                     <header>
                         <h3><a href="https://github.com/Shipu/muthofun-sms-gateway" target="_blank">MUTHOFUN SMS Gateway</a></h3>
                         <span class="place">MUTHOFUN is sms gateway in Bangladesh</span>
-                        <span class="fork">9</span>
-                        <span class="star">8</span>
+                        <span class="fork">12</span>
+                        <span class="star">9</span>
                         <span class="creator"></span>
                     </header>
                 </div>
@@ -291,8 +292,8 @@
                     <header>
                         <h3><a href="https://github.com/Shipu/laratie" target="_blank">Laratie</a></h3>
                         <span class="place">Laravel Package Development Boilerplate.</span>
-                        <span class="fork">8</span>
-                        <span class="star">37</span>
+                        <span class="fork">9</span>
+                        <span class="star">38</span>
                         <span class="creator"></span>
                     </header>
                 </div>
@@ -306,8 +307,8 @@
                     <header>
                         <h3><a href="https://github.com/nahid/talk" target="_blank">Laravel Talk</a></h3>
                         <span class="place">User conversation (inbox) system with realtime messaging</span>
-                        <span class="fork">238</span>
-                        <span class="star">1079</span>
+                        <span class="fork">256</span>
+                        <span class="star">1135</span>
                         <span class="contributor"></span>
                     </header>
                 </div>
@@ -321,8 +322,8 @@
                     <header>
                         <h3><a href="https://github.com/ConsoleTVs/Charts" target="_blank">Charts</a></h3>
                         <span class="place">Multi-library chart package to create interactive charts</span>
-                        <span class="fork">241</span>
-                        <span class="star">1580</span>
+                        <span class="fork">267</span>
+                        <span class="star">1695</span>
                         <span class="contributor"></span>
                     </header>
                 </div>
@@ -342,7 +343,7 @@
             </h2>
             <section class="blocks">
                 <div class="date">
-                    <span>Present</span><span>Jan, 2018</span>
+                    <span>Jan, 2019</span><span>Jan, 2018</span>
                 </div>
                 <div class="decorator">
                 </div>
