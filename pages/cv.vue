@@ -169,14 +169,14 @@
                     </header>
                     <div>
                         <ul>
-                            <li>Problem Solving and Back End Development with PHP</li>
+                            <li>Project Management, Problem Solving and Development</li>
                             <li>PHP, Javascript, C, C++, Java, C#</li>
                             <li>Laravel, CodeIgniter, CakePHP, VueJS, Jquery</li>
                             <li>MYSQL, PostgreSQL, SQLite, MongoDB</li>
                             <li>Agile, Scrum, Kanban</li>
                             <li>Docker, Git, NPM, WebPack, Yarn
                             <li>PhpStrom, Sublime Text</li>
-                            <li>HTML5, CSS3, Apache, Nginx, Configuring VPS with LAMP or LEMP</li>
+                            <li>HTML5, CSS3, Apache, Nginx, Configuring VPS with LAMP or LEMP or Docker</li>
                         </ul>
                     </div>
                 </div>
