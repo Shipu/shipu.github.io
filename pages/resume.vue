@@ -17,9 +17,9 @@
                 </div>
                 <div class="details">
                     <header>
-                        <h3>Software Engineer</h3>
+                        <h3>Senior Software Engineer</h3>
                         <span class="place">Deligram Technology LTD. (<a href="https://deligram.com">http://deligram.com</a>)</span>
-                        <span class="location">Mirpur DOHS, Dhaka, Bangladesh</span>
+                        <span class="location">Nakhalpara (Beside PMO), Dhaka, Bangladesh</span>
                     </header>
                     <div>
                         <p>A Rahimafrooz affiliated company Deligram is an omni-channel eCommerce platform that is merging the gap between online & offline shopping. Working on the backend team to develop new feature, analysis requirement and support the legacy codebase.</p>
