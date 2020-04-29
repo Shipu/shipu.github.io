@@ -28,8 +28,8 @@
                             <li>Implementing business logic.</li>
                             <li>Handle event based all type of automation.</li>
                             <li>Develop restful api for web frontend and mobile app.</li>
-                            <li>Develop single page application for administration with Laravel and Vuejs.</li>  
-                            <li>Helping junior developers</li> 
+                            <li>Develop single page application for administration with Laravel and Vuejs.</li>
+                            <li>Manage teams.</li>
                         </ul>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                               <li>Making web forms and functionality from Hard copy form.</li>
                               <li>Used CakePHP as application framework, MYSQL as database.</li>
                             </ul>
-                              
+
                             </li>
                             <li class="project-title">Doctor Appointment Booking
                                 <ul>
@@ -355,7 +355,7 @@
                     </header>
                     <div>
                         <ul>
-                            
+
                         </ul>
                     </div>
                 </div>
@@ -525,10 +525,10 @@
                 <li><i class="fa fa-link"></i> &nbsp;<a href="http://uhunt.felix-halim.net/id/168573">uva.onlinejudge.org/shipu</a></li>
             </ul>
         </div>
-        <div class="side-block" id="disclaimer">
-            <a href="/pdf/shipu.pdf" download class="btn">Download</a>
-            <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io/cv">https://shipu.github.io/cv</a></p>
-        </div>
+<!--        <div class="side-block" id="disclaimer">-->
+<!--            <a href="/pdf/shipu.pdf" download class="btn">Download</a>-->
+<!--            <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io/cv">https://shipu.github.io/cv</a></p>-->
+<!--        </div>-->
     </aside>
   </div>
 </template>

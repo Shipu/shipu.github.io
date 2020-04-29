@@ -188,7 +188,7 @@
                     </header>
                     <div>
                         <ul>
-                            
+
                         </ul>
                     </div>
                 </div>
@@ -295,10 +295,10 @@
                 <li><i class="fa fa-linkedin"></i> &nbsp;<a href="https://www.linkedin.com/in/toshipu">linkedin.com/in/toshipu</a></li>
             </ul>
         </div>
-        <div class="side-block" id="disclaimer">
-            <a href="/pdf/shipu_resume.pdf" download class="btn">Download</a>
-            <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io/resume">https://shipu.github.io/resume</a></p>
-        </div>
+<!--        <div class="side-block" id="disclaimer">-->
+<!--            <a href="/pdf/shipu_resume.pdf" download class="btn">Download</a>-->
+<!--            <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io/resume">https://shipu.github.io/resume</a></p>-->
+<!--        </div>-->
     </aside>
   </div>
 </template>
