@@ -530,6 +530,10 @@ li{
     .page-break-margin{
         margin-top: 2in;
     }
+
+    .print-hide {
+        display: none;
+    }
 }
 
 li.project-title{
