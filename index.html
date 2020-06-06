@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<div>
+<div id="app">
   <section id="main">
     <header id="title">
       <h1>Md. Faiz Ahamed Shipu</h1>
@@ -235,126 +235,19 @@
           </header>
         </div>
       </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/shipu/themevel" target="_blank">Themevel</a></h3>
-            <span class="place">Themevel is a Laravel 5 theme and asset management package</span>
-            <span class="fork">51</span>
-            <span class="star">241</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/Shipu/bkash" target="_blank">Bkash</a></h3>
-            <span class="place">Bkash Payment Gateway for PHP and Laravel Package</span>
-            <span class="fork">44</span>
-            <span class="star">102</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/Shipu/php-sslwireless-payment" target="_blank">SSLwireless Payment</a></h3>
-            <span class="place">Bangladesh sslwireless payment gateway for PHP and Laravel</span>
-            <span class="fork">16</span>
-            <span class="star">38</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/Shipu/php-aamarpay-payment" target="_blank">AamarPay Payment</a></h3>
-            <span class="place">Bangladesh aamarpay payment gateway for PHP and Laravel</span>
-            <span class="fork">13</span>
-            <span class="star">17</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/Shipu/muthofun-sms-gateway" target="_blank">MUTHOFUN SMS Gateway</a></h3>
-            <span class="place">MUTHOFUN is sms gateway in Bangladesh</span>
-            <span class="fork">16</span>
-            <span class="star">17</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/Shipu/laratie" target="_blank">Laratie</a></h3>
-            <span class="place">Laravel Package Development Boilerplate.</span>
-            <span class="fork">12</span>
-            <span class="star">46</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/shipu/hackerrank-api" target="_blank">HackerRank API</a></h3>
-            <span class="place">HackerRank Code Checker API for Laravel.</span>
-            <span class="fork">7</span>
-            <span class="star">13</span>
-            <span class="creator"></span>
-          </header>
-        </div>
-      </section>
-      <section class="blocks">
-        <div class="date">
-        </div>
-        <div class="decorator">
-        </div>
-        <div class="details">
-          <header>
-            <h3><a href="https://github.com/nahid/talk" target="_blank">Laravel Talk</a></h3>
-            <span class="place">User conversation (inbox) system with realtime messaging</span>
-            <span class="fork">285</span>
-            <span class="star">1300</span>
-            <span class="contributor"></span>
-          </header>
-        </div>
-      </section>
+      <section v-for="repo in github_repositories" class="blocks">
+            <div class="date"></div>
+            <div class="decorator"></div>
+            <div class="details">
+                <header>
+                    <h3><a :href="'' + buildUrl(repo.github_url)" target="_blank">{{ repo.name }}</a></h3>
+                    <span class="place">{{ repo.desc }}</span>
+                    <span class="fork">{{ repo.forks_count }}</span>
+                    <span class="star">{{ repo.stars_count }}</span>
+                    <!--                        <span class="" v-bind:class="{{ getContributionClass(repo) }}"></span>-->
+                </header>
+            </div>
+        </section>
       <section class="blocks">
         <div class="date">
         </div>
@@ -583,5 +476,9 @@
     </div>
   </aside>
 </div>
+
+<script src="js/vue.js"></script>
+<script src="js/axios.min.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
