@@ -182,15 +182,17 @@
           </header>
           <div>
             <ul>
+              <li>1.5+ years of experience in software project management with Agile methodologies.</li>
+              <li>Product analysis, planning, preparing mock, writing stories, task prioritize.</li>
+              <li>Software development lifecycle.</li>
+              <li>Problem Solving and Development.</li>
+              <li>Product Ownership and ability to delivered.</li>
+              <li>Good knowledge about project management tools like Jira, Taiga.</li>
               <li>Love to working for open source project using php.</li>
-              <li>Project Management, Problem Solving and Development</li>
-              <li><strong>PHP</strong>, Javascript, C, C++, Java, C#</li>
               <li>OOP, Laravel, CodeIgniter, CakePHP, VueJS, Jquery</li>
               <li>MYSQL, PostgreSQL, SQLite, MongoDB, LocalStorage, IndexDB</li>
-              <li>Agile, Scrum, Kanban</li>
               <li>Docker, Git, NPM, WebPack, Yarn
-              <li>PhpStrom, Sublime Text, VSCode</li>
-              <li>HTML5, CSS3, Apache, Nginx, Configuring VPS with LAMP or LEMP or Docker</li>
+              <li>Comfortable with DevOps related work.</li>
             </ul>
           </div>
         </div>
@@ -244,7 +246,7 @@
                     <span class="place">{{ repo.desc }}</span>
                     <span class="fork">{{ repo.forks_count }}</span>
                     <span class="star">{{ repo.stars_count }}</span>
-                    <!--                        <span class="" v-bind:class="{{ getContributionClass(repo) }}"></span>-->
+                    <span :class="repo.is_creator ? 'creator' : 'contributor'"></span>
                 </header>
             </div>
         </section>
@@ -380,7 +382,7 @@
         <li class="print"><i class="fa fa-phone"></i>&nbsp; +8801616022669</li>
         <li class="print"><i class="fa fa-phone"></i>&nbsp; +8801707722669</li>
         <li><i class="fa fa-skype"></i>&nbsp; shipu_a</li>
-        <li class="print"><i class="fa fa-home"></i> House-1, Road-1, Block-G, Mirpur-1, Dhaka - 1216, Bangladesh</li>
+        <li class="print"><i class="fa fa-home"></i> House-5, Road-1, Block-G, Mirpur-1, Dhaka - 1216, Bangladesh</li>
         <li class="print-hide"><i class="fa fa-home"></i> Mirpur, Dhaka, Bangladesh</li>
       </ul>
     </div>
@@ -470,10 +472,10 @@
         <li><i class="fa fa-link"></i> &nbsp;<a href="http://uhunt.felix-halim.net/id/168573" target="_blank">uva.onlinejudge.org/shipu</a></li>
       </ul>
     </div>
-    <div class="side-block" id="disclaimer">
-        <a href="static/pdf/shipu.pdf" download class="btn">Download</a>
-        <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io">https://shipu.github.io</a></p>
-    </div>
+<!--    <div class="side-block" id="disclaimer">-->
+<!--        <a href="static/pdf/shipu.pdf" download class="btn">Download</a>-->
+<!--        <p>This CV is available online at <br> &mdash; <a href="https://shipu.github.io">https://shipu.github.io</a></p>-->
+<!--    </div>-->
   </aside>
 </div>
 
