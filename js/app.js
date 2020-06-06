@@ -44,14 +44,14 @@ new Vue({
                 stars_count: 0,
                 forks_count: 0
             },
-            // {
-            //     name: 'Laratie',
-            //     desc: 'Laravel Package Development Boilerplate.',
-            //     github_url: 'Shipu/laratie',
-            //     is_creator: true,
-            //     stars_count: 0,
-            //     forks_count: 0
-            // },
+            {
+                name: 'Laratie',
+                desc: 'Laravel Package Development Boilerplate.',
+                github_url: 'Shipu/laratie',
+                is_creator: true,
+                stars_count: 0,
+                forks_count: 0
+            },
             // {
             //     name: 'HackerRank API',
             //     desc: 'HackerRank Code Checker API for Laravel.',
