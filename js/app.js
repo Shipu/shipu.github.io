@@ -44,14 +44,14 @@ new Vue({
                 stars_count: 15,
                 forks_count: 16
             },
-            {
-                name: 'Laratie',
-                desc: 'Laravel Package Development Boilerplate.',
-                github_url: 'Shipu/laratie',
-                is_creator: true,
-                stars_count: 46,
-                forks_count: 12
-            },
+            // {
+            //     name: 'Laratie',
+            //     desc: 'Laravel Package Development Boilerplate.',
+            //     github_url: 'Shipu/laratie',
+            //     is_creator: true,
+            //     stars_count: 46,
+            //     forks_count: 12
+            // },
             // {
             //     name: 'HackerRank API',
             //     desc: 'HackerRank Code Checker API for Laravel.',
@@ -60,14 +60,14 @@ new Vue({
             //     stars_count: 0,
             //     forks_count: 0
             // },
-            {
-                name: 'Laravel Talk',
-                desc: 'User conversation (inbox) system with realtime messaging',
-                github_url: 'nahid/talk',
-                is_creator: false,
-                stars_count: 1300,
-                forks_count: 285
-            },
+            // {
+            //     name: 'Laravel Talk',
+            //     desc: 'User conversation (inbox) system with realtime messaging',
+            //     github_url: 'nahid/talk',
+            //     is_creator: false,
+            //     stars_count: 1300,
+            //     forks_count: 285
+            // },
         ]
     },
     mounted() {

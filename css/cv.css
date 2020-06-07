@@ -57,7 +57,7 @@ h5 {
 }
 
 a{
-    text-decoration: underline dotted !important;
+    text-decoration: underline #2e2ea3 dotted !important;
     color: #444;
 }
 
@@ -276,6 +276,8 @@ li{
 .details .place{
   float: left;
   font-size: 7.5pt;
+  margin-top: 2px;
+  margin-bottom: 7px;
 }
 
 .details .location{
@@ -409,8 +411,8 @@ li{
     display: block;
     vertical-align: middle;
     height: auto;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    /*-webkit-filter: grayscale(100%);*/
+    /*filter: grayscale(100%);*/
 }
 
 #sidebar h1{
@@ -537,11 +539,15 @@ li{
 }
 
 li.project-title{
-    font-size: 8pt;
-    font-weight: bold;
+    /*font-size: 5pt;*/
+    /*font-weight: bold;*/
 }
 
 li.project-title > ul li {
-    font-size: 7pt;
-    font-weight: normal;
+    /*font-size: 7pt;*/
+    /*font-weight: normal;*/
+}
+
+.blue {
+    color: #2e2ea3;
 }
