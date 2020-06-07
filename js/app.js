@@ -9,48 +9,48 @@ new Vue({
                 desc: 'Themevel is a Laravel 5 theme and asset management package',
                 github_url: 'Shipu/themevel',
                 is_creator: true,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 241,
+                forks_count: 51
             },
             {
                 name: 'Bkash',
                 desc: 'Bkash Payment Gateway for PHP and Laravel Package',
                 github_url: 'Shipu/bkash',
                 is_creator: true,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 102,
+                forks_count: 44
             },
             {
                 name: 'SSLwireless Payment',
                 desc: 'Bangladesh sslwireless payment gateway for PHP and Laravel',
                 github_url: 'Shipu/php-sslwireless-payment',
                 is_creator: true,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 38,
+                forks_count: 16
             },
             {
                 name: 'AamarPay Payment',
                 desc: 'Bangladesh aamarpay payment gateway for PHP and Laravel',
                 github_url: 'Shipu/php-aamarpay-payment',
                 is_creator: true,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 17,
+                forks_count: 13
             },
             {
                 name: 'MUTHOFUN SMS Gateway',
                 desc: 'MUTHOFUN is sms gateway in Bangladesh',
                 github_url: 'Shipu/muthofun-sms-gateway',
                 is_creator: true,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 15,
+                forks_count: 16
             },
             {
                 name: 'Laratie',
                 desc: 'Laravel Package Development Boilerplate.',
                 github_url: 'Shipu/laratie',
                 is_creator: true,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 46,
+                forks_count: 12
             },
             // {
             //     name: 'HackerRank API',
@@ -65,8 +65,8 @@ new Vue({
                 desc: 'User conversation (inbox) system with realtime messaging',
                 github_url: 'nahid/talk',
                 is_creator: false,
-                stars_count: 0,
-                forks_count: 0
+                stars_count: 1300,
+                forks_count: 285
             },
         ]
     },
