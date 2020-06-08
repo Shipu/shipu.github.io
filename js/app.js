@@ -5,16 +5,8 @@ new Vue({
         github_api_base_url: 'https://api.github.com/repos/',
         github_repositories: [
             {
-                name: 'Themevel',
-                desc: 'Themevel is a Laravel 5 theme and asset management package',
-                github_url: 'Shipu/themevel',
-                is_creator: true,
-                stars_count: 241,
-                forks_count: 51
-            },
-            {
-                name: 'Bkash',
-                desc: 'Bkash Payment Gateway for PHP and Laravel Package',
+                name: 'bkash',
+                desc: 'bkash Payment Gateway for PHP and Laravel Package',
                 github_url: 'Shipu/bkash',
                 is_creator: true,
                 stars_count: 102,
@@ -43,6 +35,14 @@ new Vue({
                 is_creator: true,
                 stars_count: 15,
                 forks_count: 16
+            },
+            {
+                name: 'Themevel',
+                desc: 'Themevel is a Laravel 5+ theme and asset management package',
+                github_url: 'Shipu/themevel',
+                is_creator: true,
+                stars_count: 241,
+                forks_count: 51
             },
             // {
             //     name: 'Laratie',
