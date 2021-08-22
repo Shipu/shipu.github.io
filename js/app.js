@@ -21,22 +21,6 @@ new Vue({
                 forks_count: 16
             },
             {
-                name: 'AamarPay Payment',
-                desc: 'Bangladesh aamarpay payment gateway for PHP and Laravel',
-                github_url: 'Shipu/php-aamarpay-payment',
-                is_creator: true,
-                stars_count: 17,
-                forks_count: 13
-            },
-            {
-                name: 'MUTHOFUN SMS Gateway',
-                desc: 'MUTHOFUN is sms gateway in Bangladesh',
-                github_url: 'Shipu/muthofun-sms-gateway',
-                is_creator: true,
-                stars_count: 15,
-                forks_count: 16
-            },
-            {
                 name: 'Themevel',
                 desc: 'Themevel is a Laravel 5+ theme and asset management package',
                 github_url: 'Shipu/themevel',
@@ -44,30 +28,46 @@ new Vue({
                 stars_count: 241,
                 forks_count: 51
             },
-            // {
-            //     name: 'Laratie',
-            //     desc: 'Laravel Package Development Boilerplate.',
-            //     github_url: 'Shipu/laratie',
-            //     is_creator: true,
-            //     stars_count: 46,
-            //     forks_count: 12
-            // },
-            // {
-            //     name: 'HackerRank API',
-            //     desc: 'HackerRank Code Checker API for Laravel.',
-            //     github_url: 'shipu/hackerrank-api',
-            //     is_creator: true,
-            //     stars_count: 0,
-            //     forks_count: 0
-            // },
-            // {
-            //     name: 'Laravel Talk',
-            //     desc: 'User conversation (inbox) system with realtime messaging',
-            //     github_url: 'nahid/talk',
-            //     is_creator: false,
-            //     stars_count: 1300,
-            //     forks_count: 285
-            // },
+//             {
+//                 name: 'AamarPay Payment',
+//                 desc: 'Bangladesh aamarpay payment gateway for PHP and Laravel',
+//                 github_url: 'Shipu/php-aamarpay-payment',
+//                 is_creator: true,
+//                 stars_count: 17,
+//                 forks_count: 13
+//             },
+//             {
+//                 name: 'MUTHOFUN SMS Gateway',
+//                 desc: 'MUTHOFUN is sms gateway in Bangladesh',
+//                 github_url: 'Shipu/muthofun-sms-gateway',
+//                 is_creator: true,
+//                 stars_count: 15,
+//                 forks_count: 16
+//             },
+//             {
+//                 name: 'Laratie',
+//                 desc: 'Laravel Package Development Boilerplate.',
+//                 github_url: 'Shipu/laratie',
+//                 is_creator: true,
+//                 stars_count: 46,
+//                 forks_count: 12
+//             },
+//             {
+//                 name: 'HackerRank API',
+//                 desc: 'HackerRank Code Checker API for Laravel.',
+//                 github_url: 'shipu/hackerrank-api',
+//                 is_creator: true,
+//                 stars_count: 0,
+//                 forks_count: 0
+//             },
+//             {
+//                 name: 'Laravel Talk',
+//                 desc: 'User conversation (inbox) system with realtime messaging',
+//                 github_url: 'nahid/talk',
+//                 is_creator: false,
+//                 stars_count: 1300,
+//                 forks_count: 285
+//             },
         ]
     },
     mounted() {
