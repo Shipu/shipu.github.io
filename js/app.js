@@ -12,14 +12,14 @@ new Vue({
                 stars_count: 102,
                 forks_count: 44
             },
-            {
-                name: 'SSLwireless Payment',
-                desc: 'Bangladesh sslwireless payment gateway for PHP and Laravel',
-                github_url: 'Shipu/php-sslwireless-payment',
-                is_creator: true,
-                stars_count: 38,
-                forks_count: 16
-            },
+//             {
+//                 name: 'SSLwireless Payment',
+//                 desc: 'Bangladesh sslwireless payment gateway for PHP and Laravel',
+//                 github_url: 'Shipu/php-sslwireless-payment',
+//                 is_creator: true,
+//                 stars_count: 38,
+//                 forks_count: 16
+//             },
 //             {
 //                 name: 'Themevel',
 //                 desc: 'Themevel is a Laravel 5+ theme and asset management package',
