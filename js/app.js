@@ -20,14 +20,14 @@ new Vue({
                 stars_count: 38,
                 forks_count: 16
             },
-            {
-                name: 'Themevel',
-                desc: 'Themevel is a Laravel 5+ theme and asset management package',
-                github_url: 'Shipu/themevel',
-                is_creator: true,
-                stars_count: 241,
-                forks_count: 51
-            },
+//             {
+//                 name: 'Themevel',
+//                 desc: 'Themevel is a Laravel 5+ theme and asset management package',
+//                 github_url: 'Shipu/themevel',
+//                 is_creator: true,
+//                 stars_count: 241,
+//                 forks_count: 51
+//             },
 //             {
 //                 name: 'AamarPay Payment',
 //                 desc: 'Bangladesh aamarpay payment gateway for PHP and Laravel',
