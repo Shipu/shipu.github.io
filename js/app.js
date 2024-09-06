@@ -5,37 +5,45 @@ new Vue({
         github_api_base_url: 'https://api.github.com/repos/',
         github_repositories: [
             {
-                name: 'bkash',
+                name: 'bkash Payment Gateway',
                 desc: 'bkash Payment Gateway for PHP and Laravel Package',
                 github_url: 'Shipu/bkash',
                 is_creator: true,
-                stars_count: 102,
-                forks_count: 44
+                stars_count: 177,
+                forks_count: 90
             },
-//             {
-//                 name: 'SSLwireless Payment',
-//                 desc: 'Bangladesh sslwireless payment gateway for PHP and Laravel',
-//                 github_url: 'Shipu/php-sslwireless-payment',
-//                 is_creator: true,
-//                 stars_count: 38,
-//                 forks_count: 16
-//             },
-//             {
-//                 name: 'Themevel',
-//                 desc: 'Themevel is a Laravel 5+ theme and asset management package',
-//                 github_url: 'Shipu/themevel',
-//                 is_creator: true,
-//                 stars_count: 241,
-//                 forks_count: 51
-//             },
-//             {
-//                 name: 'AamarPay Payment',
-//                 desc: 'Bangladesh aamarpay payment gateway for PHP and Laravel',
-//                 github_url: 'Shipu/php-aamarpay-payment',
-//                 is_creator: true,
-//                 stars_count: 17,
-//                 forks_count: 13
-//             },
+            {
+                name: 'SSLwireless Payment Gateway',
+                desc: 'Bangladesh sslwireless payment gateway for PHP and Laravel',
+                github_url: 'Shipu/php-sslwireless-payment',
+                is_creator: true,
+                stars_count: 38,
+                forks_count: 16
+            },
+            {
+                name: 'AamarPay Payment Gateway',
+                desc: 'Bangladesh aamarpay payment gateway for PHP and Laravel',
+                github_url: 'Shipu/php-aamarpay-payment',
+                is_creator: true,
+                stars_count: 17,
+                forks_count: 13
+            },
+            {
+                name: 'Themevel',
+                desc: 'Themevel is a Laravel 5+ theme and asset management package',
+                github_url: 'Shipu/themevel',
+                is_creator: true,
+                stars_count: 345,
+                forks_count: 69
+            },
+            {
+                name: 'Artifact',
+                desc: 'Web framework written in Go (Golang) based on Gin. MongoDB and GORM supported.',
+                github_url: 'Shipu/artifact',
+                is_creator: true,
+                stars_count: 16,
+                forks_count: 10
+            },
 //             {
 //                 name: 'MUTHOFUN SMS Gateway',
 //                 desc: 'MUTHOFUN is sms gateway in Bangladesh',
