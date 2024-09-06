@@ -76,7 +76,7 @@ li{
   float: right;
   position: relative; /* for disclaimer */
   width: var(--sidebar-width);
-  min-height: 3378px;
+  min-height: 2778px;
   padding: 0.25in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
   font-size: 8.5pt;
@@ -539,6 +539,16 @@ li{
 
     .print-hide {
         display: none;
+    }
+
+    #sidebar{
+        float: right;
+        position: relative; /* for disclaimer */
+        width: var(--sidebar-width);
+        min-height: 3378px;
+        padding: 0.25in var(--sidebar-horizontal-padding);
+        background-color: #f2f2f2;
+        font-size: 8.5pt;
     }
 }
 
